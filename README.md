@@ -2,6 +2,10 @@
 - Asphalt Dash is a simple canvas car driving game written in html5, css3 and javascript
 - This car game can run `online` same as `offline`
 
+<p align="center">
+  <img src="logo.png" height="30%" width="30%">
+</p>
+
 ## Link: https://young-flyai.github.io/Asphalt-Dash/
 
 ## Running `Asphalt Dash`
